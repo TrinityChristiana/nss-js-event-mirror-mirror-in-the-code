@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding:0;
+}
+
+.article-container {
+    display: flex;
+}
+
+#article-1, #article-2 {
+    width: 50%;
+}
+
+#article-1 {
+    border: 1px solid green;
+}
+
+#article-2 {
+    border: 1px solid red;
+}
